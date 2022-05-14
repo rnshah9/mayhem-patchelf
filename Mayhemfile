@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-patchelf
+target: patchelf
+tests: null
+
+cmds:
+  - cmd: /repo/src/patchelf @@
